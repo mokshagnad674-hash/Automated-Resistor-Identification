@@ -1,0 +1,20 @@
+# Model weights (large files)
+*.pth
+*.h5
+*.pkl
+*.onnx
+
+# Data
+Resize 512/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
